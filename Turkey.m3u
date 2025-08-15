@@ -189,3 +189,11 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="BeinSports1" tvg-name="Bein Sports 1" group-title="Sports",Bein Sports 1
+http://192.168.10.254:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+#EXTINF:-1 tvg-id="BeinSports2" tvg-name="Bein Sports 2" group-title="Sports",Bein Sports 2
+http://192.168.10.254:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
+#EXTINF:-1 tvg-id="BeinSports3" tvg-name="Bein Sports 3" group-title="Sports",Bein Sports 3
+http://192.168.10.254:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 tvg-id="BeinSports4" tvg-name="Bein Sports 4" group-title="Sports",Bein Sports 4
+http://192.168.10.254:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
