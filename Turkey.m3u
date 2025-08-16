@@ -1,4 +1,12 @@
 #EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml"
+#EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" tvg-name="Bein Sports 1" group-title="Spor",Bein Sports 1
+http://192.168.10.254:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+#EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" tvg-name="Bein Sports 2" group-title="Spor",Bein Sports 2
+http://192.168.10.254:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
+#EXTINF:-1 tvg-id="BeinSports3" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-3-logo-png_seeklogo-481585.png" tvg-name="Bein Sports 3" group-title="Spor",Bein Sports 3
+http://192.168.10.254:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 tvg-id="BeinSports4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039" tvg-name="Bein Sports 4" group-title="Spor",Bein Sports 4
+http://192.168.10.254:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV
@@ -189,11 +197,3 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="BeinSports1" tvg-name="Bein Sports 1" group-title="Sports",Bein Sports 1
-http://192.168.10.254:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 tvg-id="BeinSports2" tvg-name="Bein Sports 2" group-title="Sports",Bein Sports 2
-http://192.168.10.254:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1 tvg-id="BeinSports3" tvg-name="Bein Sports 3" group-title="Sports",Bein Sports 3
-http://192.168.10.254:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-id="BeinSports4" tvg-name="Bein Sports 4" group-title="Sports",Bein Sports 4
-http://192.168.10.254:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
