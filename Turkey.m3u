@@ -7,32 +7,23 @@ http://192.168.10.254:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba4
 http://192.168.10.254:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
 #EXTINF:-1 tvg-id="BeinSports4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/BeinSports-4.jpg" tvg-name="Bein Sports 4" group-title="Spor",Bein Sports 4
 http://192.168.10.254:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
-#EXTINF:-1 tvg-id="sky_sports_main_event" tvg-name="Sky Sports Main Event"
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="Sports","Sky Sports Main Event"
+#EXTINF:-1 tvg-id="sky_sports_main_event" tvg-name="Sky Sports Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="Sports", Sky Sports Main Event
 http://192.168.10.254:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="sky_sports_arena" tvg-name="Sky Sports Arena"
-tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png" group-title="Sports","Sky Sports Arena"
+#EXTINF:-1 tvg-id="sky_sports_arena" tvg-name="Sky Sports Arena" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png" group-title="Sports", Sky Sports Arena
 http://192.168.10.254:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="sky_sports_football" tvg-name="Sky Sports Football"
-tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png" group-title="Sports","Sky Sports Football"
+#EXTINF:-1 tvg-id="sky_sports_football" tvg-name="Sky Sports Football" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png" group-title="Sports", Sky Sports Football
 http://192.168.10.254:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-id="premier_sports_1" tvg-name="Premier Sports 1"
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Sports","Premier Sports 1"
+#EXTINF:-1 tvg-id="premier_sports_1" tvg-name="Premier Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Sports", Premier Sports 1
 http://192.168.10.254:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-id="premier_sports_2" tvg-name="Premier Sports 2"
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Sports","Premier Sports 2"
+#EXTINF:-1 tvg-id="premier_sports_2" tvg-name="Premier Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Sports", Premier Sports 2
 http://192.168.10.254:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-id="tnt_sports_1" tvg-name="TNT Sports 1"
-tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" group-title="Sports","TNT Sports 1"
+#EXTINF:-1 tvg-id="tnt_sports_1" tvg-name="TNT Sports 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" group-title="Sports", TNT Sports 1
 http://192.168.10.254:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-id="tnt_sports_2" tvg-name="TNT Sports 2"
-tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png" group-title="Sports","TNT Sports 2"
+#EXTINF:-1 tvg-id="tnt_sports_2" tvg-name="TNT Sports 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png" group-title="Sports", TNT Sports 2
 http://192.168.10.254:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-id="tnt_sports_3" tvg-name="TNT Sports 3"
-tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png" group-title="Sports","TNT Sports 3"
+#EXTINF:-1 tvg-id="tnt_sports_3" tvg-name="TNT Sports 3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png" group-title="Sports", TNT Sports 3
 http://192.168.10.254:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-id="espn_us" tvg-name="ESPN"
-tvg-logo="https://img.sport-tv-guide.live/images/stations/a29.png" group-title="Sports","ESPN"
+#EXTINF:-1 tvg-id="espn_us" tvg-name="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a29.png" group-title="Sports", ESPN
 http://192.168.10.254:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
