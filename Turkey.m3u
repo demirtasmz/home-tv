@@ -11,12 +11,14 @@ http://192.168.10.254:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47
 http://192.168.10.254:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="sky_sports_arena" tvg-name="Sky Sports Arena" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png" group-title="Spor", Sky Sports Arena
 http://192.168.10.254:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="SkySportsPL" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png" tvg-name="Sky Sports Premier League" group-title="Spor",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest?cb=20200924152906" tvg-name="Sky Sports Premier League" group-title="Spor",Sky Sports Premier League
 http://192.168.10.254:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-id="SkySportsF1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Sky_Sports_F1_logo_2020.svg" tvg-name="Sky Sports F1" group‑title="Spor",Sky Sports F1
 http://192.168.10.254:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-id="sky_sports_football" tvg-name="Sky Sports Football" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png" group-title="Spor", Sky Sports Football
 http://192.168.10.254:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-id="SkySportsBundesliga" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Sky_Sport_Bundesliga_2020.svg/revision/latest?cb=20201029130111" tvg-name="Sky Sports Bundesliga" group‑title="Spor",Sky Sports Bundesliga
+http://192.168.10.254:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 #EXTINF:-1 tvg-id="premier_sports_1" tvg-name="Premier Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Spor", Premier Sports 1
 http://192.168.10.254:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="premier_sports_2" tvg-name="Premier Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Spor", Premier Sports 2
@@ -229,4 +231,3 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-
