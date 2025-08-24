@@ -8,7 +8,7 @@ http://192.168.10.254:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c414
 #EXTINF:-1 tvg-id="BeinSports4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/BeinSports-4.jpg" tvg-name="Bein Sports 4" group-title="Spor",Bein Sports 4
 http://192.168.10.254:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-id="sky_sports_main_event" tvg-name="Sky Sports Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="Spor", Sky Sports Main Event
-http://192.168.10.254:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+http://192.168.10.254:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="sky_sports_arena" tvg-name="Sky Sports Arena" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png" group-title="Spor", Sky Sports Arena
 http://192.168.10.254:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="SkySportsPL" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png" tvg-name="Sky Sports Premier League" group-title="Spor",Sky Sports Premier League
@@ -229,3 +229,4 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
