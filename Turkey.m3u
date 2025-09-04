@@ -1,46 +1,46 @@
 #EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml"
 #EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" tvg-name="Bein Sports 1" group-title="Spor",Bein Sports 1
-http://192.168.10.83:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+http://192.168.10.254:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
 #EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" tvg-name="Bein Sports 2" group-title="Spor",Bein Sports 2
-http://192.168.10.83:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
+http://192.168.10.254:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 #EXTINF:-1 tvg-id="BeinSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/BeinSports-3.jpg" tvg-name="Bein Sports 3" group-title="Spor",Bein Sports 3
-http://192.168.10.83:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+http://192.168.10.254:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
 #EXTINF:-1 tvg-id="BeinSports4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/BeinSports-4.jpg" tvg-name="Bein Sports 4" group-title="Spor",Bein Sports 4
-http://192.168.10.83:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+http://192.168.10.254:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-id="sky_sports_main_event" tvg-name="Sky Sports Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="Spor", Sky Sports Main Event
-http://192.168.10.83:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+http://192.168.10.254:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="sky_sports_arena" tvg-name="Sky Sports Arena" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png" group-title="Spor", Sky Sports Arena
-http://192.168.10.83:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+http://192.168.10.254:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="SkySportsPL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest?cb=20200924152906" tvg-name="Sky Sports Premier League" group-title="Spor",Sky Sports Premier League
-http://192.168.10.83:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+http://192.168.10.254:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-id="SkySportsF1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Sky_Sports_F1_logo_2020.svg" tvg-name="Sky Sports F1" group‑title="Spor",Sky Sports F1
-http://192.168.10.83:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+http://192.168.10.254:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-id="sky_sports_football" tvg-name="Sky Sports Football" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png" group-title="Spor", Sky Sports Football
-http://192.168.10.83:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+http://192.168.10.254:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="SkySportsBundesliga" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Sky_Sport_Bundesliga_2020.svg/revision/latest?cb=20201029130111" tvg-name="Sky Sports Bundesliga" group‑title="Spor",Sky Sports Bundesliga
-http://192.168.10.83:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+http://192.168.10.254:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 #EXTINF:-1 tvg-id="premier_sports_1" tvg-name="Premier Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Spor", Premier Sports 1
-http://192.168.10.83:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+http://192.168.10.254:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="premier_sports_2" tvg-name="Premier Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Spor", Premier Sports 2
-http://192.168.10.83:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+http://192.168.10.254:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-id="tnt_sports_1" tvg-name="TNT Sports 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" group-title="Spor", TNT Sports 1
-http://192.168.10.83:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+http://192.168.10.254:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-id="tnt_sports_2" tvg-name="TNT Sports 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png" group-title="Spor", TNT Sports 2
-http://192.168.10.83:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+http://192.168.10.254:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="tnt_sports_3" tvg-name="TNT Sports 3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png" group-title="Spor", TNT Sports 3
-http://192.168.10.83:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+http://192.168.10.254:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="TNTSports4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" tvg-name="TNT Sports 4" group‑title="Spor",TNT Sports 4
-http://192.168.10.83:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+http://192.168.10.254:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-id="FoxSports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2880px-2015_Fox_Sports_1_logo.svg.png" tvg‑name="Fox Sports 1" group‑title="Spor",Fox Sports 1
-http://192.168.10.83:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+http://192.168.10.254:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-id="FoxSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2880px-FS2_logo_2015.svg.png" tvg-name="Fox Sports 2" group‑title="Spor",Fox Sports 2
-http://192.168.10.83:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+http://192.168.10.254:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-id="espn_us" tvg-name="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a29.png" group-title="Spor", ESPN
-http://192.168.10.83:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+http://192.168.10.254:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2880px-ESPN2_logo.svg.png" tvg‑name="ESPN2" group‑title="Spor",ESPN2
-http://192.168.10.83:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
+http://192.168.10.254:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-id="NBATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest?cb=20250414080547" tvg‑name="NBA TV" group‑title="Spor",NBA TV
-http://192.168.10.83:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
+http://192.168.10.254:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV
@@ -231,4 +231,3 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-
